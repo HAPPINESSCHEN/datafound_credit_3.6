@@ -129,7 +129,7 @@ def get_features_importance():
         column = rows['column']
         importance = rows['score']
         print(f'column: {column}, importance: {importance}')
-
+        print('')
 
 if __name__ == '__main__':
     get_features_importance()

@@ -63,5 +63,5 @@
     rf_params = {
         'n_estimators': 1000,
         'n_jobs': 5,
-        'random_state': 2019
+        'random_state': 2019 or something is ok
     }
